@@ -22,4 +22,8 @@ I believe in giving people ownership, setting clear expectations, and maintainin
 
 ## About this portfolio
 
-I am building this space to share practical examples of analytics, pricing, and industrial business problem-solving. Project repositories will be added as examples are prepared for public sharing.
+I am building this space to share practical examples of analytics, pricing, and industrial business problem-solving. Each example identifies its data sources, assumptions, and limitations.
+
+### Featured project
+
+**[Industrial Pricing & Margin Analysis](https://github.com/Abigmac1/pricing-margin-analysis)** — A synthetic case study showing discount exception review, gross margin analysis, and price/volume scenarios. Includes sample transactions, reproducible calculations, and commercial decision rules. AI-assisted demonstration; modeled figures are separate from career achievements.
